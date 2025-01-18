@@ -1,3 +1,3 @@
 # My file  
-_hello my name is rayan_\
-**please check out my git repositries**
+_Hello my name is Rayan_\
+**Please check out my git repositries**
